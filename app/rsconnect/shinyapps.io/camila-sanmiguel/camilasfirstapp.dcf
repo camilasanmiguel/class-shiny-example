@@ -1,0 +1,12 @@
+name: camilasfirstapp
+title: camilasfirstapp
+username:
+account: camila-sanmiguel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1364306
+bundleId: 2525432
+url: https://camila-sanmiguel.shinyapps.io/camilasfirstapp/
+when: 1571761244.25808
+asMultiple: FALSE
+asStatic: FALSE
